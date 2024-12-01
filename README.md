@@ -29,7 +29,7 @@ Here it is possible to delete some retired players or tournaments not in the ATP
 
 # Screenshot
 
-![API_Routes](./API_screebshot.png)
+![API_Routes](./API_screenshot.png)
 
 # Note
 
